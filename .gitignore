@@ -1,12 +1,12 @@
-./server/.env
-./server/.idea
-./server/node_modules
-./server/.yarn.lock
-./server/yarn-error.log
+server/.env
+server/.idea
+server/node_modules
+server/.yarn.lock
+server/yarn-error.log
 
-./web/.env
-./web/.idea
-./web/node_modules
-./web/.yarn.lock
-./web/yarn-error.log
+web/.env
+web/.idea
+web/node_modules
+web/.yarn.lock
+web/yarn-error.log
 
